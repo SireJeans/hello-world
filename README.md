@@ -3,4 +3,4 @@ Juste un autre dépôt
 
 Boujourzatousse !
 
-Je suis le proutosaure, un dinosaure qui a survécu à l'extinction grâce à sa capacité à s'autopropulser.
+Je suis le proutosaure, un dinosaure qui a survécu à l'extinction grâce à sa capacité d'autopropulser.
